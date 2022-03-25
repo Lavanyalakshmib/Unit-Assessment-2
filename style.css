@@ -1,0 +1,15 @@
+ h1 {
+     color: brown;
+     text-align: center;
+     font-family: Georgia;
+     font-size: 2em;
+     width: 100%;
+     padding-top: 100px;
+     background-color: darkgoldenrod;
+ }
+p {
+    color:rgb(167, 117, 52);
+}
+body {
+    background-color: cornsilk;
+}
